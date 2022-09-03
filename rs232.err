@@ -1,0 +1,4 @@
+Warning[2066] rs232.c 246 : type qualifier mismatch in assignment
+Warning[2066] rs232.c 339 : type qualifier mismatch in assignment
+Warning[2066] rs232.c 394 : type qualifier mismatch in assignment
+Warning[2066] rs232.c 397 : type qualifier mismatch in assignment
